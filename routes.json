@@ -1,9 +1,7 @@
 {
-    "routes": [
-        {
-            "route": "/*",
-            "serve": "http://mystaticwebapp.vfernandezg.net",
-            "statusCode": 301
-        }
-    ]
+"forwardingGateway": {
+  "allowedForwardedHosts": [
+    "mystaticwebapp.vfernandezg.net"
+  ]
+}
 }
