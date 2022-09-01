@@ -2,7 +2,7 @@
     "routes": [
         {
             "route": "/*",
-            "serve": "http://mystaticweb.vfernandezg.net/",
+            "serve": "http://mystaticweb.vfernandezg.net",
             "statusCode": 302
         }
     ]
