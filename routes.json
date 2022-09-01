@@ -3,7 +3,7 @@
         {
             "route": "/*",
             "serve": "http://mystaticweb.vfernandezg.net/",
-            "statusCode": 301
+            "statusCode": 302
         }
     ]
 }
