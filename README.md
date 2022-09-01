@@ -1,0 +1,2 @@
+# mystaticwebapp
+pruebas azure
