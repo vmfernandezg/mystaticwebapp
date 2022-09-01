@@ -1,7 +1,5 @@
 {
   "networking": {
-    "allowedIpRanges": [
-      "20.8.127.3/32"
-    ]
+    "allowedIpRanges": ["GatewayManager.Backend"]
   }
 }
