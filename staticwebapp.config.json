@@ -1,12 +1,12 @@
 {
-  "navigationFallback": {
-    "rewrite": "/index.html"
-  }
-  {
-  "route": "/index*",
-    "rewrite": "/index.html",
-    "statusCode": 302
-  }
+#  "navigationFallback": {
+#    "rewrite": "/index.html"
+#  }
+#  {
+#  "route": "/index*",
+#    "rewrite": "/index.html",
+#    "statusCode": 302
+#  }
   "networking": {
     "allowedIpRanges": [
     "88.26.81.221"
